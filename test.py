@@ -114,9 +114,9 @@ def terminate_all():
 
 
 # create_ec2_instance()
-# describe_ec2_instance()
-# stop_ec2_instance()
-# terminate_ec2_instance() not completed
+# list_running_instances()
+# list_all()
+# terminate_all()
 
 
 
